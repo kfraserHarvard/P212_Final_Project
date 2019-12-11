@@ -1,0 +1,18 @@
+This file describes the modifications that were made to this version of CAMB in order to reproduce the self-interacting neutrino results in arxiv: 1306.1536. Modifications throughout the file are marked with comments starting with "!KF". There are two main sources of CAMB modifications: those to modify the Boltzman equations, and those needed to include an additional parameter.
+
+1) To add an additional parameter, several files needed to be modified. These steps are completely general:
+model.f90 - Add gnu to the CAMBparams type so that gnu can be accessed from any CAMB Parameters instance
+results.f90 - Add gnu to this files to read in from params.ini file
+camb.f90 - Add gnu to this file to output gnu when running camb from the fortran interface
+inifiles/params.ini - Add gnu as an input parameter in this file
+
+After changing the fortran, model.py also needs to be modified to make the python interface work. In model.py, both setcosmology and _fields_ should be updated.
+
+To compile and run the code from the fortran interface, run "make" followed by "./camb ../inifiles/params.ini" inside the fortran directory. To compile the python code, run "python setup.py make" in the main directory. Then do the analysis from a jupyter notebook. Note that if there are errors in the fortran code, python will crash the kernel without returning an error message, so it is a good idea to compile and separately test the fortran code before running the python interface. The relevant analysis is in the notebook "cambneutrinos.ipynb", which was modified from the python demo "CAMBdemo.ipynb". 
+
+2) The physics content in the modifications comes in the modifications of the massless neutrino boltzman equations the derivs routine in equations.f90.  The changes are all in the section commented with "Massless neutrino equations of motion." There are three different sections in the modified version:
+-A high kt neutrino approximation from the preexisting version of CAMB. This is unchanged, except for adding in the usual term proportional to opacity (the derivative of tau) for F_{\nu 2}, due to interactions. 
+-A tight coupling approximation if opacity/conformal Hubble > 100 (this condition comes from the more recent paper 1704.06657, as the details weren't in the first paper, though the tight coupling equations are in both papers). This allows CAMB to solve the equations for larger values of G_eff than would otherwise be able to be solved.
+-modifications to the full boltzman equations by adding the usual term of opacity*F_{\nu l} for l >= 2. Note l = 0 and 1 are unchanged by energy and momentum conservation. The method for truncating the neutrino hierarchy is unchanged from the unaltered version of CAMB and follows astro-ph:9506072.
+
+Note that right before these modifications there are also parameters to convert to the correct units (everything in CAMB is in MpC); they are implemented here for simplicity but it would be more efficient to implement these elsewhere so they do not have to be defined every time the routine derivs is run.

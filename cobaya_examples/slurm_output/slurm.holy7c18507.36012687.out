@@ -1,0 +1,117 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'neutrinos_base10'
+[0 : output] Found existing products with the requested ouput prefix: 'chains/neutrinos_base10'
+[0 : output] Let's try to resume/load.
+[1 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[1 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[0 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[0 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+----
+Initializing SimAll
+Initializing SimAll
+----
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+----
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+clik version 3be036bbb4f9
+  plik_cmbonly
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[1 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[0 : mcmc] Resuming from previous sample!
+[1 : 2] Loaded sample from 'chains/neutrinos_base10.2.txt'
+[1 : mcmc] Covariance matrix from checkpoint.
+[0 : 1] Loaded sample from 'chains/neutrinos_base10.1.txt'
+[1 : mcmc] Initial point:
+[0 : mcmc] Covariance matrix from checkpoint.
+[0 : mcmc] Initial point:
+[1 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[0 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[1 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     499.63098 -1.752906  2.978828  0.942405      1.045645  0.022606  0.119068  0.055012  1.000132  0.017664   
+
+           As         H0   omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 1.966475e-09  69.988978  0.28922  0.141673  0.710694  0.245485  0.246812  2.543312  7.686901  0.827621  0.989275   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.445088     0.606931  1.966476  1.761594  13.601696  147.08591   1020.597     -10.667519        -10.667519   
+
+     chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1020.597                  24.422896                  396.16078                                 590.84658   
+
+ chi2__planck_2018_lensing.clik  
+                       9.166744  
+[1 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[0 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     499.19897 -1.825608  3.001035  0.944784      1.045589  0.022755  0.119173  0.065617  0.999175  0.014941   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.010633e-09  70.058887  0.289164  0.141929  0.710751  0.245541  0.246868  2.516881  8.687153  0.838605  1.001903   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.450951     0.614955  2.010633  1.763349  13.588874  146.89226  1019.6268     -10.614448        -10.614448   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1019.626841                  24.555461                  399.90326                                 585.85238   
+
+ chi2__planck_2018_lensing.clik  
+                        9.31574  
+[0 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[0 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[1 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[1 : mcmc] Checkpoint: 5440 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Checkpoint: 5440 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 1.958550 after 10898 accepted steps = sum([5441, 5457])
+[0 : mcmc] Updated covariance matrix of proposal pdf.
+[1 : mcmc] Checkpoint: 5760 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Checkpoint: 5760 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 1.656821 after 11563 accepted steps = sum([5760, 5803])
+[0 : mcmc] Updated covariance matrix of proposal pdf.
+[1 : mcmc] Checkpoint: 6080 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Checkpoint: 6080 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 0.816132 after 12345 accepted steps = sum([6080, 6265])
+[0 : mcmc] Updated covariance matrix of proposal pdf.
+[1 : mcmc] Checkpoint: 6400 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 6720 samples accepted.
+[0 : mcmc] Checkpoint: 6400 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 0.708457 after 13168 accepted steps = sum([6400, 6768])
+[0 : mcmc] Updated covariance matrix of proposal pdf.

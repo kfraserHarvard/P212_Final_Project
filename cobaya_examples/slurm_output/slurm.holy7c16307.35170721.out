@@ -1,0 +1,968 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'neutrinos_base10'
+[3 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[6 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[7 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[4 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[8 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[9 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[2 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[5 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[1 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[0 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[6 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[4 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[3 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[2 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[5 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[0 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[7 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[8 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[9 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[1 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+----
+----
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+----
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+  plik_cmbonly
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[4 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[7 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[8 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[2 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[6 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[1 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[5 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[9 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[3 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[2 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[9 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[0 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[4 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[2 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[2 : mcmc] Missing proposal covariance for params ['logGnu']
+[2 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[2 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[2 : mcmc] Initial point:
+[2 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[7 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[0 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[4 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[9 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[0 : mcmc] Missing proposal covariance for params ['logGnu']
+[4 : mcmc] Missing proposal covariance for params ['logGnu']
+[9 : mcmc] Missing proposal covariance for params ['logGnu']
+[4 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[0 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[9 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[0 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[4 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[9 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[7 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[7 : mcmc] Missing proposal covariance for params ['logGnu']
+[7 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[8 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[7 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[8 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[8 : mcmc] Missing proposal covariance for params ['logGnu']
+[8 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[8 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[7 : mcmc] Initial point:
+[7 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[9 : mcmc] Initial point:
+[4 : mcmc] Initial point:
+[4 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[9 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[0 : mcmc] Initial point:
+[0 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[8 : mcmc] Initial point:
+[8 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[1 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[1 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[1 : mcmc] Missing proposal covariance for params ['logGnu']
+[1 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[1 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[1 : mcmc] Initial point:
+[1 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[6 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[6 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[6 : mcmc] Missing proposal covariance for params ['logGnu']
+[6 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[6 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[6 : mcmc] Initial point:
+[6 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[5 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[3 : mcmc] Covariance matrix selected automatically: {modules}/data/planck_supp_data_and_covmats/covmats/base_plikHM_TTTEEE_lowl_lowE_lensing.covmat
+[5 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[5 : mcmc] Missing proposal covariance for params ['logGnu']
+[5 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[3 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'logA', 'ns', 'A_planck']
+[3 : mcmc] Missing proposal covariance for params ['logGnu']
+[3 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (was 2).
+[5 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[3 : prior] *WARNING* Reference pdf not defined or improper for some parameters. Using prior's sigma instead for them.
+[3 : mcmc] Initial point:
+[3 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[5 : mcmc] Initial point:
+[5 : prior] Reference values or pdf's for some parameters were not provided. Sampling from the prior instead for those parameters.
+[2 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  62866.134009 -1.407854  3.367086  1.006076      1.034484  0.022364  0.119914  0.060747    0.9973  0.039097   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.899392e-09  65.743035  0.329184  0.142278  0.670719  0.245396  0.246723  2.586701  8.304622  1.010822  1.246666   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag      chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.579955     0.765657  2.899392  2.567694  13.963297  147.130825  125752.439823     -10.085902        -10.085902   
+
+          chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 125752.439823                  52.647067                 399.585122                             121455.162745   
+
+ chi2__planck_2018_lensing.clik  
+                    3845.044889  
+[2 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[9 : mcmc] 
+ weight   minuslogpost   logGnu     logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  203461.995669 -0.73087  3.60774  0.931359      1.046958  0.022401  0.120541  0.059315  1.003556  0.185836   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre   sigma8      s8h5  \
+ 3.688261e-09  69.736246  0.293929  0.142942  0.705985  0.245411  0.246738  2.579762  8.189593  1.11118  1.330624   
+
+ s8omegamp5  s8omegamp25         A    clamp        age       rdrag      chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.602429     0.818173  3.688261  3.27568  13.589811  146.924778  406943.305767      -9.657214         -9.657214   
+
+          chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 406943.305767                 214.761347                 408.816266                             393678.360159   
+
+ chi2__planck_2018_lensing.clik  
+                   12641.367994  
+[9 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[8 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  30592.646304 -2.172182  3.318716  0.954058      1.049175  0.022417  0.120705  0.057993  0.998314  0.006727   
+
+           As         H0  omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.762486e-09  70.445755  0.2884  0.143121  0.711516  0.245417  0.246744  2.576883  8.061716  0.999464  1.190802   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag     chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.536741     0.732429  2.762486  2.459961  13.524234  146.863719  61206.175481     -10.441437        -10.441437   
+
+         chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 61206.175481                  81.252407                 399.957684                              58793.896315   
+
+ chi2__planck_2018_lensing.clik  
+                    1931.069075  
+[8 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[6 : mcmc] 
+ weight   minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2      tau  A_planck      Gnu  \
+    1.0  724435.926411 -0.264824  3.886847  1.047505      1.041566  0.022467  0.118834  0.04948    1.0003  0.54347   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8     s8h5  \
+ 4.875689e-09  68.576673  0.300463  0.141301  0.699448  0.245436  0.246763  2.567723  7.138097  1.314609  1.58748   
+
+ s8omegamp5  s8omegamp25         A   clamp        age       rdrag     chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.720597     0.973295  4.875689  4.4163  13.734964  147.301805  1.448893e+06     -10.661697        -10.661697   
+
+         chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1.448893e+06                 198.672194                 400.406671                              1.409275e+06   
+
+ chi2__planck_2018_lensing.clik  
+                   39019.047929  
+[6 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[7 : mcmc] 
+ weight  minuslogpost    logGnu      logA       ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0   8716.557655 -2.451984  3.190924  0.99486      1.031433  0.022416  0.119023  0.075258  1.000393  0.003532   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN      zre    sigma8      s8h5  \
+ 2.431089e-09  65.088738  0.333856  0.141439  0.666046  0.245417  0.246743  2.577048  9.64259  0.919613  1.139862   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag     chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.531355     0.699029  2.431089  2.091378  14.047299  147.308495  17454.428484     -10.656587        -10.656587   
+
+         chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 17454.428484                  25.464608                 405.604644                              16492.661365   
+
+ chi2__planck_2018_lensing.clik  
+                     530.697866  
+[7 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[4 : mcmc] 
+ weight   minuslogpost    logGnu      logA       ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  280622.636506 -4.252981  3.793884  1.09298      1.047405  0.022339  0.120716  0.060275  0.999246  0.000056   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre   sigma8      s8h5  \
+ 4.442863e-09  69.773104  0.293851  0.143055  0.706063  0.245386  0.246713  2.591418  8.303264  1.27804  1.530032   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag      chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.692801     0.940971  4.442863  3.938299  13.583635  146.946943  561266.519973     -10.623481        -10.623481   
+
+          chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 561266.519973                  99.988655                 400.505275                             544340.128883   
+
+ chi2__planck_2018_lensing.clik  
+                   16425.897161  
+[4 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[0 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  13121.087019 -3.983577  2.740602  1.018667      1.031929  0.022378  0.120324  0.049226  0.999085  0.000104   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN      zre    sigma8      s8h5  \
+ 1.549631e-09  64.767202  0.340188  0.142702  0.659712  0.245402  0.246728  2.584144  7.13214  0.717757  0.891866   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag     chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.418636      0.54816  1.549631  1.404336  14.041768  147.007164  26263.378057      -10.60201         -10.60201   
+
+         chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 26263.378057                  78.307356                  397.60292                              24943.274268   
+
+ chi2__planck_2018_lensing.clik  
+                     844.193514  
+[0 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[1 : mcmc] 
+ weight   minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  269832.309921 -2.571749  3.760061  0.979929      1.047876  0.022425  0.121719  0.050311  1.000728  0.002681   
+
+           As         H0    omegam  omegamh2  omega_de      YHe       Y_p     DHBBN       zre   sigma8      s8h5  \
+ 4.295104e-09  69.652055  0.297118  0.144144  0.702795  0.24542  0.246747  2.575369  7.288911  1.24908  1.496661   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag      chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.680856     0.922195  4.295104  3.883952  13.565381  146.589836  539685.872906     -10.626532        -10.626532   
+
+          chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 539685.872906                 220.775115                 401.877745                             522383.362755   
+
+ chi2__planck_2018_lensing.clik  
+                   16679.857292  
+[1 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[3 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0   3101.553399 -3.070858  2.913699  0.973471      1.037823  0.022519  0.119857  0.058342  0.998724  0.000849   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 1.842482e-09  66.999439  0.317172  0.142376  0.682735  0.245454  0.246781  2.558539  8.036225  0.785777  0.959983   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag    chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.442534     0.589689  1.842482  1.639564  13.846281  146.973799  6224.184191     -10.538696        -10.538696   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 6224.184191                  21.163228                 396.304739                               5646.492387   
+
+ chi2__planck_2018_lensing.clik  
+                     160.223837  
+[3 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[5 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0  80741.544567 -3.600561  3.536836  0.878974      1.047618  0.022487  0.117447  0.061135  0.998045  0.000251   
+
+           As         H0    omegam  omegamh2  omega_de       YHe      Y_p     DHBBN       zre   sigma8      s8h5  \
+ 3.435805e-09  71.150818  0.276416  0.139934  0.723501  0.245443  0.24677  2.564195  8.295556  1.02292  1.212696   
+
+ s8omegamp5  s8omegamp25         A     clamp        age       rdrag      chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.537803     0.741707  3.435805  3.040378  13.548418  147.649596  161503.815668     -10.363267        -10.363267   
+
+          chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 161503.815668                 257.675112                 413.621986                             155828.232527   
+
+ chi2__planck_2018_lensing.clik  
+                    5004.286043  
+[5 : mcmc] Sampling! (NB: nothing will be printed until 240 burn-in samples have been obtained)
+[7 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[4 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[0 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[8 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[6 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[5 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[3 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[2 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[7 : mcmc] Checkpoint: 320 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[1 : mcmc] Finished burn-in phase: discarded 240 accepted steps.
+[4 : mcmc] Checkpoint: 320 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 640 samples accepted.
+[8 : mcmc] Checkpoint: 320 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 960 samples accepted.
+[2 : mcmc] Checkpoint: 320 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Checkpoint: 320 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 320 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 640 samples accepted.
+[7 : mcmc] Checkpoint: 1280 samples accepted.
+[2 : mcmc] Checkpoint: 640 samples accepted.
+[8 : mcmc] Checkpoint: 640 samples accepted.
+[5 : mcmc] Checkpoint: 320 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 1600 samples accepted.
+[3 : mcmc] Checkpoint: 320 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 320 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 960 samples accepted.
+[8 : mcmc] Checkpoint: 960 samples accepted.
+[7 : mcmc] Checkpoint: 1920 samples accepted.
+[6 : mcmc] Checkpoint: 640 samples accepted.
+[2 : mcmc] Checkpoint: 1280 samples accepted.
+[4 : mcmc] Checkpoint: 960 samples accepted.
+[5 : mcmc] Checkpoint: 640 samples accepted.
+[8 : mcmc] Checkpoint: 1280 samples accepted.
+[1 : mcmc] Checkpoint: 320 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 102.096639 after 9429 accepted steps = sum([639, 320, 1437, 483, 987, 734, 722, 2139, 1354, 614])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[0 : mcmc] Checkpoint: 640 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 640 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 2240 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 1600 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 1600 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 960 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 960 samples accepted.
+[7 : mcmc] Checkpoint: 2560 samples accepted.
+[2 : mcmc] Checkpoint: 1920 samples accepted.
+[6 : mcmc] Checkpoint: 960 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 1920 samples accepted.
+[3 : mcmc] Checkpoint: 640 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 1280 samples accepted.
+[4 : mcmc] Checkpoint: 1280 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 1280 samples accepted.
+[7 : mcmc] Checkpoint: 2880 samples accepted.
+[2 : mcmc] Checkpoint: 2240 samples accepted.
+[8 : mcmc] Checkpoint: 2240 samples accepted.
+[4 : mcmc] Checkpoint: 1600 samples accepted.
+[5 : mcmc] Checkpoint: 1600 samples accepted.
+[9 : mcmc] Checkpoint: 1600 samples accepted.
+[1 : mcmc] Checkpoint: 640 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 48.738096 after 16408 accepted steps = sum([934, 642, 2489, 787, 1683, 1655, 1072, 3069, 2443, 1634])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[2 : mcmc] Checkpoint: 2560 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Checkpoint: 960 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 2560 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 3200 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 1920 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 960 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 1920 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 3520 samples accepted.
+[2 : mcmc] Checkpoint: 2880 samples accepted.
+[8 : mcmc] Checkpoint: 2880 samples accepted.
+[6 : mcmc] Checkpoint: 1280 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 1920 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 2240 samples accepted.
+[3 : mcmc] Checkpoint: 960 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 47.412563 after 20642 accepted steps = sum([1113, 1178, 3042, 961, 1954, 2144, 1297, 3674, 3020, 2259])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[5 : mcmc] Checkpoint: 2240 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 1280 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 3840 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 3200 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 3200 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 2240 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 2560 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 1600 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 2560 samples accepted.
+[7 : mcmc] Checkpoint: 4160 samples accepted.
+[1 : mcmc] Checkpoint: 1600 samples accepted.
+[2 : mcmc] Checkpoint: 3520 samples accepted.
+[0 : mcmc] Checkpoint: 1280 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 3520 samples accepted.
+[4 : mcmc] Checkpoint: 2560 samples accepted.
+[9 : mcmc] Checkpoint: 2880 samples accepted.
+[7 : mcmc] Checkpoint: 4480 samples accepted.
+[6 : mcmc] Checkpoint: 1920 samples accepted.
+[1 : mcmc] Checkpoint: 1920 samples accepted.
+[5 : mcmc] Checkpoint: 2880 samples accepted.
+[2 : mcmc] Checkpoint: 3840 samples accepted.
+[8 : mcmc] Checkpoint: 3840 samples accepted.
+[4 : mcmc] Checkpoint: 2880 samples accepted.
+[9 : mcmc] Checkpoint: 3200 samples accepted.
+[6 : mcmc] Checkpoint: 2240 samples accepted.
+[3 : mcmc] Checkpoint: 1280 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 84.133265 after 29706 accepted steps = sum([1457, 2227, 4098, 1280, 3080, 3098, 2305, 4763, 4062, 3336])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[1 : mcmc] Checkpoint: 2240 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 4800 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 4160 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 4160 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 3200 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 3200 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 3520 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 2560 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 2560 samples accepted.
+[2 : mcmc] Checkpoint: 4480 samples accepted.
+[7 : mcmc] Checkpoint: 5120 samples accepted.
+[8 : mcmc] Checkpoint: 4480 samples accepted.
+[4 : mcmc] Checkpoint: 3520 samples accepted.
+[0 : mcmc] Checkpoint: 1600 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 3520 samples accepted.
+[6 : mcmc] Checkpoint: 2880 samples accepted.
+[9 : mcmc] Checkpoint: 3840 samples accepted.
+[1 : mcmc] Checkpoint: 2880 samples accepted.
+[7 : mcmc] Checkpoint: 5440 samples accepted.
+[8 : mcmc] Checkpoint: 4800 samples accepted.
+[2 : mcmc] Checkpoint: 4800 samples accepted.
+[4 : mcmc] Checkpoint: 3840 samples accepted.
+[9 : mcmc] Checkpoint: 4160 samples accepted.
+[6 : mcmc] Checkpoint: 3200 samples accepted.
+[5 : mcmc] Checkpoint: 3840 samples accepted.
+[1 : mcmc] Checkpoint: 3200 samples accepted.
+[8 : mcmc] Checkpoint: 5120 samples accepted.
+[7 : mcmc] Checkpoint: 5760 samples accepted.
+[4 : mcmc] Checkpoint: 4160 samples accepted.
+[3 : mcmc] Checkpoint: 1600 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 186.427950 after 39068 accepted steps = sum([1791, 3420, 5042, 1601, 4200, 4080, 3440, 5798, 5221, 4475])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[9 : mcmc] Checkpoint: 4480 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 3520 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 4160 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 3520 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 5120 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 4480 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 5440 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 6080 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 4800 samples accepted.
+[1 : mcmc] Checkpoint: 3840 samples accepted.
+[6 : mcmc] Checkpoint: 3840 samples accepted.
+[0 : mcmc] Checkpoint: 1920 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 5440 samples accepted.
+[7 : mcmc] Checkpoint: 6400 samples accepted.
+[4 : mcmc] Checkpoint: 4800 samples accepted.
+[8 : mcmc] Checkpoint: 5760 samples accepted.
+[5 : mcmc] Checkpoint: 4480 samples accepted.
+[9 : mcmc] Checkpoint: 5120 samples accepted.
+[1 : mcmc] Checkpoint: 4160 samples accepted.
+[6 : mcmc] Checkpoint: 4160 samples accepted.
+[2 : mcmc] Checkpoint: 5760 samples accepted.
+[4 : mcmc] Checkpoint: 5120 samples accepted.
+[7 : mcmc] Checkpoint: 6720 samples accepted.
+[8 : mcmc] Checkpoint: 6080 samples accepted.
+[9 : mcmc] Checkpoint: 5440 samples accepted.
+[3 : mcmc] Checkpoint: 1920 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 167.753665 after 47076 accepted steps = sum([2075, 4476, 5854, 1922, 5182, 4763, 4439, 6810, 6112, 5443])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[1 : mcmc] Checkpoint: 4480 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 4480 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 4800 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 7040 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 6080 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 6400 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 4800 samples accepted.
+[9 : mcmc] Checkpoint: 5760 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 4800 samples accepted.
+[4 : mcmc] Checkpoint: 5440 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 5120 samples accepted.
+[2 : mcmc] Checkpoint: 6400 samples accepted.
+[7 : mcmc] Checkpoint: 7360 samples accepted.
+[8 : mcmc] Checkpoint: 6720 samples accepted.
+[0 : mcmc] Checkpoint: 2240 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 5120 samples accepted.
+[6 : mcmc] Checkpoint: 5120 samples accepted.
+[4 : mcmc] Checkpoint: 5760 samples accepted.
+[5 : mcmc] Checkpoint: 5440 samples accepted.
+[9 : mcmc] Checkpoint: 6080 samples accepted.
+[7 : mcmc] Checkpoint: 7680 samples accepted.
+[2 : mcmc] Checkpoint: 6720 samples accepted.
+[8 : mcmc] Checkpoint: 7040 samples accepted.
+[1 : mcmc] Checkpoint: 5440 samples accepted.
+[6 : mcmc] Checkpoint: 5440 samples accepted.
+[9 : mcmc] Checkpoint: 6400 samples accepted.
+[3 : mcmc] Checkpoint: 2240 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 169.078052 after 55866 accepted steps = sum([2378, 5560, 6869, 2240, 6059, 5747, 5530, 7876, 7198, 6409])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[5 : mcmc] Checkpoint: 5760 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 6080 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 8000 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 7360 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 5760 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 5760 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 7040 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 6720 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 6080 samples accepted.
+[7 : mcmc] Checkpoint: 8320 samples accepted.
+[1 : mcmc] Checkpoint: 6080 samples accepted.
+[8 : mcmc] Checkpoint: 7680 samples accepted.
+[4 : mcmc] Checkpoint: 6400 samples accepted.
+[6 : mcmc] Checkpoint: 6080 samples accepted.
+[9 : mcmc] Checkpoint: 7040 samples accepted.
+[0 : mcmc] Checkpoint: 2560 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 6400 samples accepted.
+[2 : mcmc] Checkpoint: 7360 samples accepted.
+[8 : mcmc] Checkpoint: 8000 samples accepted.
+[7 : mcmc] Checkpoint: 8640 samples accepted.
+[1 : mcmc] Checkpoint: 6400 samples accepted.
+[4 : mcmc] Checkpoint: 6720 samples accepted.
+[6 : mcmc] Checkpoint: 6400 samples accepted.
+[9 : mcmc] Checkpoint: 7360 samples accepted.
+[5 : mcmc] Checkpoint: 6720 samples accepted.
+[2 : mcmc] Checkpoint: 7680 samples accepted.
+[3 : mcmc] Checkpoint: 2560 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 169.918789 after 64438 accepted steps = sum([2683, 6635, 7720, 2560, 6885, 6812, 6590, 8826, 8234, 7493])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[1 : mcmc] Checkpoint: 6720 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 8320 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 8960 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 6720 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 7040 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 7040 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 7680 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 8000 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 7040 samples accepted.
+[8 : mcmc] Checkpoint: 8640 samples accepted.
+[7 : mcmc] Checkpoint: 9280 samples accepted.
+[6 : mcmc] Checkpoint: 7040 samples accepted.
+[4 : mcmc] Checkpoint: 7360 samples accepted.
+[5 : mcmc] Checkpoint: 7360 samples accepted.
+[9 : mcmc] Checkpoint: 8000 samples accepted.
+[2 : mcmc] Checkpoint: 8320 samples accepted.
+[0 : mcmc] Checkpoint: 2880 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 8960 samples accepted.
+[1 : mcmc] Checkpoint: 7360 samples accepted.
+[7 : mcmc] Checkpoint: 9600 samples accepted.
+[5 : mcmc] Checkpoint: 7680 samples accepted.
+[9 : mcmc] Checkpoint: 8320 samples accepted.
+[6 : mcmc] Checkpoint: 7360 samples accepted.
+[4 : mcmc] Checkpoint: 7680 samples accepted.
+[8 : mcmc] Checkpoint: 9280 samples accepted.
+[7 : mcmc] Checkpoint: 9920 samples accepted.
+[2 : mcmc] Checkpoint: 8640 samples accepted.
+[3 : mcmc] Checkpoint: 2880 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 157.972647 after 73456 accepted steps = sum([3021, 7632, 8668, 2880, 7868, 7942, 7558, 9984, 9361, 8542])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[1 : mcmc] Checkpoint: 7680 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 8000 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 8640 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 8000 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 7680 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 8960 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 9600 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 8000 samples accepted.
+[7 : mcmc] Checkpoint: 10240 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 8320 samples accepted.
+[5 : mcmc] Checkpoint: 8320 samples accepted.
+[6 : mcmc] Checkpoint: 8000 samples accepted.
+[9 : mcmc] Checkpoint: 8960 samples accepted.
+[2 : mcmc] Checkpoint: 9280 samples accepted.
+[8 : mcmc] Checkpoint: 9920 samples accepted.
+[0 : mcmc] Checkpoint: 3200 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 8320 samples accepted.
+[5 : mcmc] Checkpoint: 8640 samples accepted.
+[6 : mcmc] Checkpoint: 8320 samples accepted.
+[2 : mcmc] Checkpoint: 9600 samples accepted.
+[7 : mcmc] Checkpoint: 10560 samples accepted.
+[9 : mcmc] Checkpoint: 9280 samples accepted.
+[8 : mcmc] Checkpoint: 10240 samples accepted.
+[3 : mcmc] Checkpoint: 3200 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 126.011898 after 80949 accepted steps = sum([3308, 8598, 9685, 3200, 8618, 8929, 8437, 10614, 10259, 9301])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[5 : mcmc] Checkpoint: 8960 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 8640 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 8640 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 8640 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 9920 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 10880 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 10560 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 9600 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 9280 samples accepted.
+[1 : mcmc] Checkpoint: 8960 samples accepted.
+[4 : mcmc] Checkpoint: 8960 samples accepted.
+[6 : mcmc] Checkpoint: 8960 samples accepted.
+[2 : mcmc] Checkpoint: 10240 samples accepted.
+[7 : mcmc] Checkpoint: 11200 samples accepted.
+[8 : mcmc] Checkpoint: 10880 samples accepted.
+[9 : mcmc] Checkpoint: 9920 samples accepted.
+[1 : mcmc] Checkpoint: 9280 samples accepted.
+[0 : mcmc] Checkpoint: 3520 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 9280 samples accepted.
+[5 : mcmc] Checkpoint: 9600 samples accepted.
+[7 : mcmc] Checkpoint: 11520 samples accepted.
+[8 : mcmc] Checkpoint: 11200 samples accepted.
+[2 : mcmc] Checkpoint: 10560 samples accepted.
+[6 : mcmc] Checkpoint: 9280 samples accepted.
+[1 : mcmc] Checkpoint: 9600 samples accepted.
+[9 : mcmc] Checkpoint: 10240 samples accepted.
+[3 : mcmc] Checkpoint: 3520 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 132.265304 after 89320 accepted steps = sum([3594, 9675, 10659, 3521, 9506, 9766, 9347, 11616, 11310, 10326])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[4 : mcmc] Checkpoint: 9600 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 9920 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 11520 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 10880 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 11840 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 10560 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 9920 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 9600 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 9920 samples accepted.
+[2 : mcmc] Checkpoint: 11200 samples accepted.
+[8 : mcmc] Checkpoint: 11840 samples accepted.
+[7 : mcmc] Checkpoint: 12160 samples accepted.
+[9 : mcmc] Checkpoint: 10880 samples accepted.
+[1 : mcmc] Checkpoint: 10240 samples accepted.
+[5 : mcmc] Checkpoint: 10240 samples accepted.
+[6 : mcmc] Checkpoint: 9920 samples accepted.
+[4 : mcmc] Checkpoint: 10240 samples accepted.
+[8 : mcmc] Checkpoint: 12160 samples accepted.
+[2 : mcmc] Checkpoint: 11520 samples accepted.
+[0 : mcmc] Checkpoint: 3840 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 12480 samples accepted.
+[1 : mcmc] Checkpoint: 10560 samples accepted.
+[9 : mcmc] Checkpoint: 11200 samples accepted.
+[6 : mcmc] Checkpoint: 10240 samples accepted.
+[3 : mcmc] Checkpoint: 3840 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 131.553258 after 97741 accepted steps = sum([3905, 10673, 11672, 3841, 10469, 10542, 10303, 12680, 12372, 11284])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[5 : mcmc] Checkpoint: 10560 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 12480 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 10560 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 12800 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 10880 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 10560 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 11840 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 11520 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 10880 samples accepted.
+[8 : mcmc] Checkpoint: 12800 samples accepted.
+[4 : mcmc] Checkpoint: 10880 samples accepted.
+[7 : mcmc] Checkpoint: 13120 samples accepted.
+[1 : mcmc] Checkpoint: 11200 samples accepted.
+[6 : mcmc] Checkpoint: 10880 samples accepted.
+[9 : mcmc] Checkpoint: 11840 samples accepted.
+[2 : mcmc] Checkpoint: 12160 samples accepted.
+[5 : mcmc] Checkpoint: 11200 samples accepted.
+[8 : mcmc] Checkpoint: 13120 samples accepted.
+[7 : mcmc] Checkpoint: 13440 samples accepted.
+[0 : mcmc] Checkpoint: 4160 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 11520 samples accepted.
+[6 : mcmc] Checkpoint: 11200 samples accepted.
+[5 : mcmc] Checkpoint: 11520 samples accepted.
+[4 : mcmc] Checkpoint: 11200 samples accepted.
+[8 : mcmc] Checkpoint: 13440 samples accepted.
+[2 : mcmc] Checkpoint: 12480 samples accepted.
+[3 : mcmc] Checkpoint: 4160 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 121.835968 after 106393 accepted steps = sum([4223, 11735, 12498, 4160, 11287, 11674, 11375, 13749, 13535, 12157])
+[0 : mcmc] Bad convergence statistics: waiting until the next checkpoint.
+[9 : mcmc] Checkpoint: 12160 samples accepted.
+[9 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 13760 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 11840 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Checkpoint: 11520 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 11840 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[8 : mcmc] Checkpoint: 13760 samples accepted.
+[8 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 11520 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[9 : mcmc] Checkpoint: 12480 samples accepted.
+[2 : mcmc] Checkpoint: 12800 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 14080 samples accepted.
+[1 : mcmc] Checkpoint: 12160 samples accepted.
+[6 : mcmc] Checkpoint: 11840 samples accepted.

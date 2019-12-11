@@ -1,0 +1,367 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'neutrinos'
+[0 : output] Found existing products with the requested ouput prefix: 'chains/neutrinos'
+[0 : output] Let's try to resume/load.
+[5 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[2 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[4 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[6 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[3 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[7 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[1 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[4 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[2 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[3 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[5 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[6 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[1 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[7 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+[0 : camb] Importing *local* CAMB from /n/home02/kfraser/Cosmology/CAMB-1.0.9_neutrinos
+[0 : planck_2018_lowl.TT] Importing clik from /n/home02/kfraser/Cosmology/cobaya/code/planck
+----
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Initializing SimAll
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+ Initializing Planck likelihood, version Plik_v22_cmbonly_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+----
+clik version 3be036bbb4f9
+  plik_cmbonly
+Checking likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/hi_l/plik_lite/plik_lite_v22_TTTEEE.clik' on test data. got -292.286 expected -292.286 (diff -3.86228e-09)
+----
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[3 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[5 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[6 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[7 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[1 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[4 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[2 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+Checking lensing likelihood '/n/home02/kfraser/Cosmology/cobaya/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : likelihood] The theory code will compute the following products, requested by the likelihoods: ['H0', 'omegam', 'omega_de', 'YHe', 'Y_p', 'zre', 'sigma8', 'age', 'rdrag', 'DH', 'Cl']
+[0 : mcmc] Resuming from previous sample!
+[1 : 2] Loaded sample from 'chains/neutrinos.2.txt'
+[7 : 8] Loaded sample from 'chains/neutrinos.8.txt'
+[5 : 6] Loaded sample from 'chains/neutrinos.6.txt'
+[3 : 4] Loaded sample from 'chains/neutrinos.4.txt'
+[5 : mcmc] Covariance matrix from checkpoint.
+[7 : mcmc] Covariance matrix from checkpoint.
+[3 : mcmc] Covariance matrix from checkpoint.
+[1 : mcmc] Covariance matrix from checkpoint.
+[6 : 7] Loaded sample from 'chains/neutrinos.7.txt'
+[2 : 3] Loaded sample from 'chains/neutrinos.3.txt'
+[3 : mcmc] Initial point:
+[7 : mcmc] Initial point:
+[5 : mcmc] Initial point:
+[1 : mcmc] Initial point:
+[4 : 5] Loaded sample from 'chains/neutrinos.5.txt'
+[6 : mcmc] Covariance matrix from checkpoint.
+[6 : mcmc] Initial point:
+[2 : mcmc] Covariance matrix from checkpoint.
+[2 : mcmc] Initial point:
+[4 : mcmc] Covariance matrix from checkpoint.
+[4 : mcmc] Initial point:
+[0 : 1] Loaded sample from 'chains/neutrinos.1.txt'
+[0 : mcmc] Covariance matrix from checkpoint.
+[0 : mcmc] Initial point:
+[7 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[3 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[5 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[1 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[6 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[0 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[4 : numexpr.utils] Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[5 : mcmc] 
+ weight  minuslogpost    logGnu     logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     496.93734 -4.010322  3.04484  0.967837      1.041333  0.022441  0.119009  0.054682  1.001772  0.000098   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN      zre   sigma8      s8h5  \
+ 2.100668e-09  68.413608  0.302216   0.14145  0.697694  0.245426  0.246753  2.572483  7.68044  0.82456  0.996899   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.453295     0.611367  2.100668  1.883046  13.745316  147.28535    1014.71      -10.41767         -10.41767   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1014.710025                  22.885965                  396.04259                                 586.92666   
+
+ chi2__planck_2018_lensing.clik  
+                        8.85481  
+[5 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[3 : mcmc] 
+ weight  minuslogpost   logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     498.91913 -4.16707  3.044576  0.956755       1.04085  0.022264  0.119926  0.055908  0.999962  0.000068   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.100112e-09  67.778422  0.309518   0.14219  0.690391  0.245356  0.246682  2.605739  7.858236  0.823651  1.000455   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.458233     0.614348  2.100112  1.877941  13.781578  147.23899  1019.1759     -10.668802        -10.668802   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1019.175873                  25.409952                  396.56523                                 588.32485   
+
+ chi2__planck_2018_lensing.clik  
+                       8.875841  
+[3 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[7 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100    ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     501.05817 -4.470951  3.038055  0.973562      1.041478  0.02251  0.119377  0.054951  0.999236  0.000034   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8     s8h5  \
+ 2.086463e-09  68.388506  0.303371  0.141886  0.696539  0.245451  0.246778  2.560087  7.698489  0.823029  0.99523   
+
+ s8omegamp5  s8omegamp25         A     clamp      age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.453317     0.610813  2.086463  1.869306  13.7357  147.11092  1023.3608     -10.622242        -10.622242   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1023.360824                  21.691751                  396.03851                                 596.36681   
+
+ chi2__planck_2018_lensing.clik  
+                       9.263753  
+[7 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[1 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100    ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     498.82304 -3.821196  3.035665  0.960501      1.041126  0.02218  0.119119  0.054937  0.997962  0.000151   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.081481e-09  68.089466  0.304775  0.141299  0.695135  0.245321  0.246648  2.621732  7.766156  0.821152  0.995138   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.453328     0.610124  2.081481  1.864897  13.778175  147.54662  1018.3192     -10.336565        -10.336565   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1018.319199                   24.27583                  396.23727                                 589.11036   
+
+ chi2__planck_2018_lensing.clik  
+                       8.695739  
+[1 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[6 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     496.83666 -3.965893  3.047789  0.967118      1.040965  0.022384  0.118204  0.057819  1.002406  0.000108   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.106871e-09  68.531173  0.299345  0.140588  0.700566  0.245404  0.246731  2.583033  7.993895  0.822973  0.994126   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.450268     0.608735  2.106872  1.876798  13.758394  147.56237   1014.085     -10.205862        -10.205862   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1014.085042                  22.897524                  396.73079                                  585.7828   
+
+ chi2__planck_2018_lensing.clik  
+                       8.673928  
+[6 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[2 : mcmc] 
+ weight  minuslogpost    logGnu      logA       ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     500.91418 -4.424978  3.038347  0.97239      1.041028  0.022133  0.118819  0.054887  1.000582  0.000038   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.087071e-09  68.125367  0.303706  0.140952  0.696204  0.245302  0.246628  2.630686  7.766655  0.822436  0.996432   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.453241     0.610542  2.087071  1.870092  13.784462  147.67899  1023.1121     -10.641848        -10.641848   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1023.112051                  21.708018                  396.07593                                 596.02077   
+
+ chi2__planck_2018_lensing.clik  
+                       9.307334  
+[2 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[0 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     498.12433 -3.486942  3.042358  0.958543      1.041432  0.022393  0.119965  0.055935  1.001543  0.000326   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p     DHBBN       zre    sigma8      s8h5  \
+ 2.095459e-09  68.067325  0.307259  0.142358  0.692651  0.245408  0.246735  2.581252  7.833266  0.829309  1.005187   
+
+ s8omegamp5  s8omegamp25        A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+   0.459693     0.617436  2.09546  1.873677  13.751354  147.08464  1017.2057     -10.478503        -10.478503   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1017.205669                  24.538632                   396.4689                                 587.19999   
+
+ chi2__planck_2018_lensing.clik  
+                       8.998147  
+[4 : mcmc] 
+ weight  minuslogpost    logGnu      logA        ns  theta_MC_100     ombh2     omch2       tau  A_planck       Gnu  \
+    1.0     498.47617 -4.274987  3.048968  0.963999      1.041073  0.022345  0.119915  0.051704  1.006358  0.000053   
+
+           As         H0    omegam  omegamh2  omega_de       YHe       Y_p    DHBBN       zre    sigma8      s8h5  \
+ 2.109357e-09  67.924197  0.308342   0.14226  0.691567  0.245389  0.246715  2.59035  7.410241  0.827249  1.003746   
+
+ s8omegamp5  s8omegamp25         A     clamp        age      rdrag  chi2__CMB  minuslogprior  minuslogprior__0  \
+    0.45936     0.616445  2.109357  1.902132  13.766712  147.15172   1011.823      -7.435317         -7.435317   
+
+        chi2  chi2__planck_2018_lowl.TT  chi2__planck_2018_lowl.EE  chi2__planck_2018_highl_plik.TTTEEE_lite  \
+ 1011.822973                  23.481995                  395.77414                                 583.32381   
+
+ chi2__planck_2018_lensing.clik  
+                       9.243029  
+[4 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[0 : mcmc] Sampling! (NB: nothing will be printed until 8 burn-in samples have been obtained)
+[7 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[1 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[0 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[4 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[5 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[3 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[6 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[2 : mcmc] Finished burn-in phase: discarded 8 accepted steps.
+[6 : mcmc] Checkpoint: 15040 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 14720 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 15360 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Checkpoint: 17600 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 17280 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Checkpoint: 15360 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Checkpoint: 15360 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Checkpoint: 16320 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc] Convergence of means: R-1 = 0.074637 after 127772 accepted steps = sum([15392, 15497, 16321, 17694, 14856, 15420, 15271, 17321])
+[0 : mcmc] Updated covariance matrix of proposal pdf.
+[6 : mcmc] Checkpoint: 15360 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Checkpoint: 15680 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Checkpoint: 15040 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Checkpoint: 17600 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
